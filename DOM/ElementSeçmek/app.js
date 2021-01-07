@@ -30,7 +30,7 @@ element = document.querySelector("div");
 elements = document.querySelectorAll(".list-group-item");
 elements.forEach(function(e){
     console.log(e);
-})
+});
 
 console.log(element);
 console.log(elements);
